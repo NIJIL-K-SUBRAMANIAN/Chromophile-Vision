@@ -56,7 +56,8 @@ svg{
     height: 100vh;
 }
 
-footer{
-   
-    ;
-}
+@media only screen and (max-width: 1000px) {
+    .brand-name{
+        margin-bottom: 2rem;
+    }
+  }
